@@ -2,7 +2,7 @@
   <img src="banner.png" alt="Marcos Olivera — Analista de Sistemas & Soporte & Proyecto" width="100%">
 </p>
 
-<h1 align="center">Analista de Sistemas &amp; Soporte & Proyecto</h1>
+<h1 align="center">Analista de Sistemas - Soporte & Proyecto</h1>
 
 <p align="center">
   <a href="https://marcosadrianolivera.github.io/porfolio-marcos/"><img src="https://img.shields.io/badge/Portfolio-en%20vivo-7dabf8?style=flat-square&logo=githubpages&logoColor=white" alt="Portfolio en vivo"></a>
