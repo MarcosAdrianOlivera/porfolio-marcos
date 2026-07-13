@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="banner.png" alt="Marcos Olivera — Infraestructura & Soporte de Sistemas" width="100%">
+  <img src="banner.png" alt="Marcos Olivera — Analista de Sistemas & Soporte & Proyecto" width="100%">
 </p>
 
-<h1 align="center">Infraestructura &amp; Soporte de Sistemas</h1>
+<h1 align="center">Analista de Sistemas &amp; Soporte & Proyecto</h1>
 
 <p align="center">
   <a href="https://marcosadrianolivera.github.io/porfolio-marcos/"><img src="https://img.shields.io/badge/Portfolio-en%20vivo-7dabf8?style=flat-square&logo=githubpages&logoColor=white" alt="Portfolio en vivo"></a>
@@ -36,15 +36,6 @@ Profesional IT con experiencia en la administración, configuración y seguridad
 | Herramientas | Excel avanzado, Jira, Trello |
 | Metodologías | Ágiles (Scrum/Kanban) |
 | Este sitio | HTML5, CSS3, JavaScript, GitHub Pages |
-
-## 📂 Contenido del portfolio
-
-El sitio publicado incluye:
-
-- Resumen profesional y trayectoria
-- Experiencia por empresa/proyecto
-- Habilidades técnicas
-- Proyectos destacados, con documentación de soporte
 
 ## 📬 Contacto
 
