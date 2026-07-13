@@ -12,11 +12,9 @@
 
 ## 👋 Sobre este repositorio
 
-Este repositorio aloja el código fuente de mi portfolio profesional, publicado con **GitHub Pages**:
+Este repositorio aloja el código fuente de mi portfolio profesional:
 
 **🔗 [marcosadrianolivera.github.io/porfolio-marcos](https://marcosadrianolivera.github.io/porfolio-marcos/)**
-
-Es un sitio estático de una sola página (HTML + CSS + JS, sin dependencias ni build step) donde detallo mi trayectoria, habilidades técnicas y proyectos destacados en administración de infraestructura y soporte de sistemas empresariales.
 
 ## 🧭 Perfil profesional
 
