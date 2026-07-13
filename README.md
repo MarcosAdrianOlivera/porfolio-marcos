@@ -20,7 +20,7 @@ Es un sitio estático de una sola página (HTML + CSS + JS, sin dependencias ni 
 
 ## 🧭 Perfil profesional
 
-Profesional IT con más de 8 años de experiencia en la administración, configuración y seguridad de plataformas empresariales complejas. Especializado en la gestión de entornos productivos y no productivos, migraciones de gran escala, y en traducir necesidades técnicas en soluciones estables y seguras.
+Profesional IT con experiencia en la administración, configuración y seguridad de plataformas empresariales complejas. Especializado en la gestión de entornos productivos y no productivos, migraciones de gran escala, y en traducir necesidades técnicas en soluciones estables y seguras.
 
 - 🔧 Administración de plataformas ERP, migraciones y *system copy*
 - 🔐 Seguridad, gestión de roles y autorizaciones
@@ -52,7 +52,6 @@ El sitio publicado incluye:
 
 - ✉️ olivera.marcos@outlook.com
 - 📍 Buenos Aires, Argentina
-- 🔗 [Ver portfolio completo](https://marcosadrianolivera.github.io/porfolio-marcos/)
 
 ---
 
