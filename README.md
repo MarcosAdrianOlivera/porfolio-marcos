@@ -12,7 +12,7 @@
 
 ## 👋 Sobre este repositorio
 
-Este repositorio aloja el código fuente de mi portfolio profesional:
+Este repositorio aloja mi portfolio profesional:
 
 **🔗 [marcosadrianolivera.github.io/porfolio-marcos](https://marcosadrianolivera.github.io/porfolio-marcos/)**
 
